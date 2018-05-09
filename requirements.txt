@@ -1,0 +1,11 @@
+Nombre proyecto: torrecontrol
+TorreDeControl -> torrecontrol.py
+Vuelo -> veulo.py
+Cola -> TADcola.py
+main.py
+
+Vuelo tiene id, origen, destino, hora salida, hora llegada.
+Imprimir numero de vuelo, id, origen, destino, hora salida, hora llegada.
+1001-9999 baraja 5 veces.
+Crear vuelos desde main.
+Ticks cada 30 segundos.
